@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sahil
 
-<!--
-**Singroha-S/Singroha-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer with 4 years of experience building
+ETL pipelines, API integrations, workflow automation,
+and analytics solutions.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- BigQuery
+- Apache Airflow
+- Flask
+- Pandas
+- REST APIs
+- Linux
+- GitHub
+- LangChain
+- LLM Applications
+
+## Current Focus
+
+Building production-grade Data Engineering and AI projects.
+
+## Connect
+
+LinkedIn: www.linkedin.com/in/singroha
