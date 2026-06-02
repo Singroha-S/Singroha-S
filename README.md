@@ -20,7 +20,10 @@ and analytics solutions.
 
 ## Current Focus
 
-Building production-grade Data Engineering and AI projects.
+Currently building:
+• API → BigQuery ETL Framework
+• Airflow Data Pipelines
+• LLM-powered Analytics Applications
 
 ## Connect
 
