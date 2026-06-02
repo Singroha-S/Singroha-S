@@ -21,7 +21,7 @@ Currently building:
 
 ## Featured Projects
 
-### API → BigQuery ETL Framework
+### [API → BigQuery ETL Framework](https://github.com/Singroha-S/api-bigquery-etl-framework)
 Production-style ETL framework for extracting data from REST APIs, transforming it, and loading it into BigQuery.
 
 (Currently under development)
