@@ -8,11 +8,7 @@ Data Engineer with 4 years of experience building scalable ETL/ELT pipelines, AP
 - SQL
 - BigQuery
 - Apache Airflow
-- Flask
-- Pandas
 - REST APIs
-- Linux
-- GitHub
 - LangChain
 - LLM Applications
 
