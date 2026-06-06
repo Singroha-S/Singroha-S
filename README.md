@@ -4,6 +4,7 @@ Data Engineer with 4 years of experience building scalable ETL/ELT pipelines, AP
 
 ## Skills
 
+- Data Engineering
 - Python
 - SQL
 - BigQuery
@@ -11,6 +12,9 @@ Data Engineer with 4 years of experience building scalable ETL/ELT pipelines, AP
 - REST APIs
 - LangChain
 - LLM Applications
+- ETL Pipelines
+- Streamlit
+- Pandas
 
 ## Current Focus
 
