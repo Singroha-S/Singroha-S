@@ -29,7 +29,7 @@ Currently building:
 
 Built for a 92,000-bird commercial layer farm. Transforms daily production, mortality, feed consumption, and operational data into KPI dashboards and actionable business insights.
 
-**Tech Stack:** Python, Streamlit, Pandas, Plotly
+**Tech Stack:**  Python, Streamlit, Pandas, Plotly
 
 🚀 **[Live Demo](https://layer-analytics.streamlit.app/)**  
 📂 **[Source Code](https://github.com/Singroha-S/poultry-analytics-platform)**
