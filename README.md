@@ -25,10 +25,14 @@ Currently building:
 
 ## Featured Projects
 
-### [Poultry Analytics Platform](https://github.com/Singroha-S/poultry-analytics-platform)
-Built for a 92,000-bird commercial layer farm. Transforms daily production, mortality and operational data into KPI dashboards and business insights.
+### 🐔 [Poultry Analytics Platform](https://github.com/Singroha-S/poultry-analytics-platform)
 
-[Live Demo ->](https://layer-analytics.streamlit.app/)
+Built for a 92,000-bird commercial layer farm. Transforms daily production, mortality, feed consumption, and operational data into KPI dashboards and actionable business insights.
+
+**Tech Stack:** Python, Streamlit, Pandas, Plotly
+
+🚀 **[Live Demo](https://layer-analytics.streamlit.app/)**  
+📂 **[Source Code](https://github.com/Singroha-S/poultry-analytics-platform)**
 
 ### [API → BigQuery ETL Framework](https://github.com/Singroha-S/api-bigquery-etl-framework)
 Production-style ETL framework for extracting data from REST APIs, transforming it, and loading it into BigQuery.
