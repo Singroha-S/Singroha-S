@@ -27,7 +27,7 @@ Currently building:
 
 ### 🐔 [Poultry Analytics Platform](https://github.com/Singroha-S/poultry-analytics-platform)
 
-Built for a 92,000-bird commercial layer farm. Transforms daily production, mortality, feed consumption, and operational data into KPI dashboards and actionable business insights.
+Built for a 94,000-bird commercial layer farm. Transforms daily production, mortality, feed consumption, and operational data into KPI dashboards and actionable business insights.
 
 **Tech Stack:**  Python, Streamlit, Pandas, Plotly
 
