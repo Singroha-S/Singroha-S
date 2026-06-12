@@ -18,7 +18,7 @@ Data Engineer with 4 years of experience building scalable ETL/ELT pipelines, AP
 
 ## Current Focus
 
-Currently building:
+Currently building :
 - Poultry Analytics Platform
 - API → BigQuery ETL Framework
 - LLM-powered Analytics Applications
