@@ -2,7 +2,7 @@
 
 Data Engineer with 4 years of experience building scalable ETL/ELT pipelines, API integrations, workflow automation, and analytics solutions using Python, SQL, BigQuery, and Apache Airflow.
 
-## Skills
+## Skill
 
 - Data Engineering
 - Python
